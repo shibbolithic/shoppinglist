@@ -18,7 +18,7 @@ An Android app for managing a shopping list using Jetpack Compose.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/shoppinglist.git
+    git clone https://github.com/shibbolithic/shoppinglist.git
     ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
